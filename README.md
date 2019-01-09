@@ -1,5 +1,5 @@
 # Linear_Regression #
-This repository includes three files:
+This repository includes three python files:
 
 * **Model Selection:** code for linear regression from scratch, L2 regularization and a discussion on the degree of the source polynomial
 
@@ -7,4 +7,4 @@ This repository includes three files:
 
 * **Real Life [Dataset](http://archive.ics.uci.edu/ml/datasets/Communities+and+Crime):** Preprocessing of the dataset, cross-validation and Ridge Regression. Discussion of feature selection.
 
-See the Question.pdf and Report.pdf for more details.
+See the Question.pdf and .png files for more details.
